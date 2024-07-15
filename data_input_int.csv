@@ -1,0 +1,19 @@
+No.,Index,Address,English Name,Type in Python,Value
+0,0,3,65_RV_01B_Status,Int,0
+1,1,4,65_VFBD_01_Status,Int,0
+2,2,5,65_VFBD_02_Status,Int,0
+3,3,6,65_SV_01_Status,Int,0
+4,4,7,65_SC_02_Status,Int,0
+5,5,8,65_EXF_01A_Status,Int,0
+6,6,9,65_EXF_01B_Status,Int,0
+7,7,10,65_EXF_01C_Status,Int,0
+8,8,11,65_FD_01A_Status,Int,0
+9,9,12,65_FD_01B_Status,Int,0
+10,10,13,65_FD_01C_Status,Int,0
+11,11,14,65_BC_01_Status,Int,0
+12,12,15,65_SC_01_Status,Int,0
+13,13,16,65_SC_03_Status,Int,0
+14,14,17,65_VRM_01_Status,Int,0
+15,15,18,65_SLG_01_Status,Int,0
+16,16,19,65_SLV_01_Status,Int,0
+17,17,20,65_DVV_01_Status,Int,0

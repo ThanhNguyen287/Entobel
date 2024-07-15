@@ -1,0 +1,17 @@
+No.,Index,Address,English Name,Type in Python,Value
+0,0,1,66_LSH_01A,b,0
+1,1,1,ESTOP,b,0
+2,2,1,Add_Material,b,0
+3,3,1,Drying_Material,b,0
+4,4,1,Heating_Material,b,0
+5,5,1,Storage_Material,b,0
+6,6,1,65_RV_01B_Faulted,b,0
+7,7,1,65_VFBD_01_Faulted,b,0
+8,8,1,65_VFBD_02_Faulted,b,0
+9,9,1,65_SV_01_Faulted,b,0
+10,10,1,65_SC_02_Faulted,b,0
+11,11,1,65_EXF_01A_Faulted,b,0
+12,12,1,65_EXF_01B_Faulted,b,0
+13,13,1,65_EXF_01C_Faulted,b,0
+14,14,1,65_FD_01A_Faulted,b,0
+15,15,1,65_FD_01B_Faulted,b,0

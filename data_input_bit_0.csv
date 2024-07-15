@@ -1,0 +1,17 @@
+No.,Index,Address,English Name,Type in Python,Value
+0,0,0,65_PIDV_01_Status,b,0
+1,1,0,65_PIDV_02_Status,b,0
+2,2,0,65_PIDV_03_Status,b,0
+3,3,0,65_ZSI_01B,b,0
+4,4,0,65_ZSI_07B,b,0
+5,5,0,65_CSI_01B,b,0
+6,6,0,65_LSH_01B,b,0
+7,7,0,65_LSL_01B,b,0
+8,8,0,65_LSH_02A,b,0
+9,9,0,65_LSL_02A,b,0
+10,10,0,65_LSH_03B_1,b,0
+11,11,0,65_LSL_03B_1,b,0
+12,12,0,65_LSH_04B_1,b,0
+13,13,0,65_LSL_04B_1,b,0
+14,14,0,65_LSH_05B_1,b,0
+15,15,0,65_LSL_05B_1,b,0

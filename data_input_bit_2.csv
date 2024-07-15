@@ -1,0 +1,17 @@
+No.,Index,Address,English Name,Type in Python,Value
+0,0,2,65_FD_01C_Faulted,b,0
+1,1,2,65_BC_01_Faulted,b,0
+2,2,2,65_SC_01_Faulted,b,0
+3,3,2,65_SC_03_Faulted,b,0
+4,4,2,65_VRM_01_Faulted,b,0
+5,5,2,Spare_0,b,0
+6,6,2,Spare_1,b,0
+7,7,2,Spare_2,b,0
+8,8,2,Spare_3,b,0
+9,9,2,Spare_4,b,0
+10,10,2,Spare_5,b,0
+11,11,2,Spare_6,b,0
+12,12,2,Spare_7,b,0
+13,13,2,Spare_8,b,0
+14,14,2,Spare_9,b,0
+15,15,2,Spare_10,b,0
